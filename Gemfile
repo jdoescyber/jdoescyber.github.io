@@ -33,3 +33,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # https://pages.github.com/versions/
 gem "github-pages", "~> 219", group: :jekyll_plugins
 gem "webrick", "~> 1.7"
+
+# Minimal Mistakes Theme
+# https://github.com/mmistakes/minimal-mistakes
+gem "minimal-mistakes-jekyll"
