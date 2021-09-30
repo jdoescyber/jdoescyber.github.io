@@ -21,9 +21,8 @@
 title: Jackson Nestler
 email: jackson[at]nestler.tech
 description: >- # this means to ignore newlines until "baseurl:"
-  Jackson Nestler's personal homepage and blog. Jackson is a cybersecurity
-  analyst and researcher from the United States. Jackson writes about blue-team
-  cybersecurity, primarily DFIR.
+  Jackson is a cybersecurity analyst and researcher from the United States. 
+  Jackson writes about blue-team cybersecurity, primarily DFIR.
 
 domain: nestler.tech
 baseurl: "" # the subpath of your site, e.g. /blog

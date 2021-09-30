@@ -32,3 +32,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 # https://pages.github.com/versions/
 gem "github-pages", "~> 219", group: :jekyll_plugins
+gem "webrick", "~> 1.7"
