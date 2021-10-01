@@ -31,9 +31,10 @@ twitter_username: jdoescyber
 github_username:  jdoescyber
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -64,7 +65,7 @@ locale: "en-US"
 title_separator: "-"
 subtitle: "CyberOps | DFIR "
 name: "Jackson Nestler"
-repository: "jdoescyber/jdoescyber.github.io"
+#repository: "jdoescyber/jdoescyber.github.io"
 
 words_per_minute: 200
 search: true 
@@ -76,7 +77,6 @@ author:
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "  Jackson is a cybersecurity analyst and researcher from the United States. Jackson writes about blue-team cybersecurity, primarily DFIR."
   location: "Arizona, United States"
-  email: "jackson@nestler.tech"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

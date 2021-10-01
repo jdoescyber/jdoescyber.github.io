@@ -37,3 +37,4 @@ gem "webrick", "~> 1.7"
 # Minimal Mistakes Theme
 # https://github.com/mmistakes/minimal-mistakes
 gem "minimal-mistakes-jekyll"
+gem "jekyll-include-cache", group: :jekyll_plugins
