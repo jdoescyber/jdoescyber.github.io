@@ -63,7 +63,7 @@ plugins:
 minimal_mistakes_skin: dark
 locale: "en-US"
 title_separator: "-"
-subtitle: "CyberOps | DFIR "
+subtitle: "SecOps | DFIR "
 name: "Jackson Nestler"
 #repository: "jdoescyber/jdoescyber.github.io"
 
