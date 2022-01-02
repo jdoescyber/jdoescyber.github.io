@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Jackson Nestler",
+    "label": "Senior Cybersecurity Analyst",
+    "picture": "../images/avatar.png",
+    "email": "jackson[at]nestler[dot]tech",
+    "phone": "",
+    "website": "https://nestler.tech",
+    "summary": "Senior Cybersecurity Analyst with Mosaic451. Passionate about all things DFIR. Looking to make the world just a bit brighter. ",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Phoenix",
+      "countryCode": "USA",
+      "region": "Arizona"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "jdoescyber",
+        "url": "http://github.com/jdoescyber"
+      },
+      {
+        "network": "linkedin",
+        "username": "jackson-nestler",
+        "url": "http://linkedin.com/in/jackson-nestler"
+      },
+      {
+        "network": "twitter",
+        "username": "jdoescyber",
+        "url": "http://twitter.com/jdoescyber"
+      }
+
+    ]
+  },
+  "interests": [
+    {
+      "name": "Digital Forensics, Incident Response",
+      "keywords": []
+    },
+    {
+      "name": "malware analysis",
+      "keywords": []
+    },
+    {
+      "name": "building detections",
+      "keywords": []
+    },
+    {
+      "name": "security automation",
+      "keywords": []
+    },
+    {
+      "name": "writing",
+      "keywords": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "DFIR Tools",
+      "level": "Intermediate",
+      "keywords": [
+        "FTK",
+        "Redline"
+      ]
+    },
+    {
+      "name": "Logging, SIEMs, EDR",
+      "level": "Intermediate",
+      "keywords": [
+        "Splunk",
+        "Elastic",
+        "QRadar / QRoC",
+        "Resilient",
+        "TheHive",
+        "IRIS",
+        "Crowdstrike Falcon",
+        "SentinelOne",
+        "Elastic Endgame"
+      ]
+    },
+    {
+      "name": "Programming and Scripting",
+      "keywords":[
+        "Python (Intermediate/Advanced)",
+        "Powershell (Intermediate)",
+        "C# (Intermediate)",
+        "Golang (Beginner)"
+      ]
+    },
+    {
+      "name": "Misc.",
+      "level": "",
+      "keywords": [
+        "Debian / Ubuntu",
+        "Git / GitHub"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Advancing Technology",
+      "area": "Network Security",
+      "studyType": "B.S.",
+      "startDate": "2017-09",
+      "endDate": "2020-08",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Advancing Technology",
+      "area": "Technology Forensics",
+      "studyType": "B.S.",
+      "startDate": "2017-09",
+      "endDate": "2020-08",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "Mosaic451",
+      "position": "Senior Cybersecurity Analyst",
+      "website": "https://mosaic451.com",
+      "startDate": "2020-03",
+      "endDate": "Present",
+      "summary": "Highly versatile cybersecurity analyst, providing Managed Detection and Response (MDR) services to SOC customers. SIEM analyst, incident responder, threat-team contributor.",
+      "highlights": [
+        "Worked with private, energy-sector customer as dedicated liaison, providing high-quality, rapid response to detections and project contributions",
+        "Responding to SIEM alerts that are escalated by analysts, triaging them, and initiating incident response as needed.",
+        "Part of the incident response team, following the incident response process for detections escalated by other analysts",
+        "Contributing threat intelligence and threat hunting to the MDR service model",
+        "Customers include those in financial, industrial, critical infrastructure, and local government sectors."
+      ]
+    },
+    {
+      "company": "Mountain Park Health Center",
+      "position": "Desktop Support Specialist II",
+      "website": "https://mountainparkhealth.org",
+      "startDate": "2019-02",
+      "endDate": "2020-03",
+      "summary": "Level two support provided to a non-profit health center with 8 clinical locations. Individually managed a clinic with 100+ end users.",
+      "highlights": [
+        "Handling 350+ incident and problem tickets per week",
+        "Hardware and software troubleshooting",
+        "Triaging incoming tickets, phone calls, and IMs",
+        "Python and Powershell scripts to automate daily tasks, and updating existing Batch scripts",
+        "Deployment of Snipe-IT asset management platform",
+        "Clear, concise documentation of day-to-day operations and \"long-term\" operations."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
