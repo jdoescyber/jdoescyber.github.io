@@ -61,7 +61,8 @@
       "level": "Intermediate",
       "keywords": [
         "FTK",
-        "Redline"
+        "Redline",
+        "Autopsy"
       ]
     },
     {
@@ -93,7 +94,8 @@
       "level": "",
       "keywords": [
         "Debian / Ubuntu",
-        "Git / GitHub"
+        "Git / GitHub",
+        "Docker (Beginner)"
       ]
     }
   ],

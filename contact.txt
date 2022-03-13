@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+- ---
+
+Date of last update: 2022-22-01
+
+This message contains contact information for me, Jackson Nestler. This message has been signed using my Keybase profile's key.
+
+My Keybase (thus verifying other socials): https://keybase.io/jksn
+
+Other contact methods that Keybase doesn't necessarily support:
+
+- - Email: jackson@nestler.tech
+- - Counter.social: @jdoescyber
+
+- ---
+-----BEGIN PGP SIGNATURE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+wsFcBAABCgAGBQJh7MMmAAoJEPqvNdD/B69kXIUQAIDuHu9RtYruEl+ww2AMF1dX
+Zl22lqby3lxUceprz8xRRDVNCQ0mqMPRV6p5pvvg0FqSdaH9vpU8xoyJM70T5X/w
+ghqKhJszfpelh2ww+j5gsbOHgyexvrJqLS4SCprQCtxM1KTimFT3APBuhJmNDHib
+IV+bIlILr8CHQRyA0eRQ8yRUSvZdkAn8e97cMJR+yef5etPP3htRpz6pORv/8K+k
+SVxfhpniXKquLOF6OUZjSWoLKJlIkYyBubvdSGqjjcr1YDObhqPfCNql+iOCF8Pn
+r7+BwoOwV4R6nW6HZCDiMLMs7aCq2hn98HxxNdww0REQtLdEI38rjbRyaTkOtQpa
+7JNWtT6hzneUmVZOLaFEM57QRap9trY8ELzWJX1TtMQSlOWkK0MvW8cIaIes/Z6S
+mYJ0Gu6SD3v0MYP2FvM8EQmB4I/snP88+IaDAvXKgSLc/XaIR6IFLKvsmwfG3LUs
+KnnIJ/7/z4rJnoRxsBkmRhtz2+RK+/Hw1Vmt/I2MbKd2PU5OdBnZRF9bRuEDl0EG
+1fBxL39a96Cgjvaz1BY3yqeCjjzchKMhPU9UzBSyU7Pv+7YnwQQ4RL2JXd+LKW0Q
+tGr9ykjq5v5TRX9JX51D0Dh6mGzKQyOm+dcu2Z9pgPGqSGtDNCzWLue6q3oZVylr
+KT0r+hIrMcQxjTCPHk/O
+=syaR
+-----END PGP SIGNATURE-----
