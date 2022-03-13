@@ -35,7 +35,11 @@
   },
   "interests": [
     {
-      "name": "Digital Forensics, Incident Response",
+      "name": "Digital Forensics",
+      "keywords": []
+    },
+    {
+      "name": "Incident Response",
       "keywords": []
     },
     {
@@ -83,7 +87,7 @@
     {
       "name": "Programming and Scripting",
       "keywords":[
-        "Python (Intermediate/Advanced)",
+        "Python (Intermediate)",
         "Powershell (Intermediate)",
         "C# (Intermediate)",
         "Golang (Beginner)"
@@ -97,6 +101,14 @@
         "Git / GitHub",
         "Docker (Beginner)"
       ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Blue Team Level One (BTL1)",
+      "date": "Sept 18, 2021",
+      "awarder": "Security Blue Team",
+      "summary": "\"Earners of the Blue Team Level 1 Certification have showcased their practical ability to defend networks and systems from cyber threats through technical and hands-on defensive cybersecurity training. They have knowledge and ability across 5 security operations domains which include Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, and Incident Response.\" - SBT. Verification: https://www.credly.com/earner/earned/badge/36d415c8-00ab-4860-8485-69b7db418a41"
     }
   ],
   "education": [
