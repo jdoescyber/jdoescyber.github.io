@@ -43,19 +43,19 @@
       "keywords": []
     },
     {
-      "name": "malware analysis",
+      "name": "Malware Analysis",
       "keywords": []
     },
     {
-      "name": "building detections",
+      "name": "Building Detections",
       "keywords": []
     },
     {
-      "name": "security automation",
+      "name": "Security Automation",
       "keywords": []
     },
     {
-      "name": "writing",
+      "name": "Writing",
       "keywords": []
     }
   ],
@@ -74,9 +74,9 @@
       "level": "Intermediate",
       "keywords": [
         "Splunk",
-        "Elastic",
+        "Elastic Stack",
         "QRadar / QRoC",
-        "Resilient",
+        "IBM QRadar SOAR / Resilient",
         "TheHive",
         "IRIS",
         "Crowdstrike Falcon",
@@ -89,7 +89,6 @@
       "keywords":[
         "Python (Intermediate)",
         "Powershell (Intermediate)",
-        "C# (Intermediate)",
         "Golang (Beginner)"
       ]
     },
@@ -101,6 +100,15 @@
         "Git / GitHub",
         "Docker (Beginner)"
       ]
+    }
+  ],
+  "volunteer" : [
+    {
+      "position": "Cybersecurity Advisory Board",
+      "organization": "University of Advancing Technology",
+      "startDate": "2021-11-18",
+      "url": "https://www.uat.edu/center-for-cybersecurity"
+      
     }
   ],
   "awards": [
